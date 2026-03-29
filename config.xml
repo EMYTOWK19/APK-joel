@@ -1,5 +1,5 @@
 {
-  "Version": "1.3",
+  "Version": "1.4",
   "ReleaseNotes": "Nueva Atualizacion Disponível",
   "UrlUpdate": "https://github.com/EMYTOWK19/APK-joel/blob/main/config.xml",
   "Sms": "",
@@ -26,7 +26,7 @@ OPTION / HTTP/1.1[crlf]Host: recargas.personal.com.ar[crlf][crlf]GET / HTTP/1.1[
    "TunnelType": "Proxy"
   },
  {
-   "Name": "EMYTO-VPS🇨🇱",
+   "Name": "🇨🇱EMYTO-VPS🇨🇱",
    "FLAG": "br",
    "ServerIP": "emailmarketing.personal.com.ar",
    "ServerPort": "80",
